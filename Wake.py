@@ -1,2 +1,2 @@
-From time import sleep
-sleep(43200)
+import time
+time.sleep(43200)
